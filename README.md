@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 2nd Year Applied Mathematics and Computer Science Major at Farmingdale State College
+
+I'm interested in Machine Learning, Computational Mathematics, Full-Stack Development, and Data Science, I've built machine learning, computer vision, mobile applications, and full stack websites. 
