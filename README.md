@@ -5,7 +5,6 @@ I'm an Applied Mathematics and Computer Science student focused on **Machine Lea
 I'm interested in Machine Learning, Computational Mathematics, Full-Stack Development, Research, and Data Science.
 
 I've built machine learning, computer vision, mobile applications, and full stack AI websites.
----
 
 ## 🔍 Focus Areas
 - Machine Learning & Data Science
