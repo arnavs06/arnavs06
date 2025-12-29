@@ -49,15 +49,16 @@ Farmingdale State College
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, Java, JavaScript, TypeScript, SQL, R  
+**Languages:** Python, Java, JavaScript, TypeScript, SQL
 **ML/Data:** TensorFlow, PyTorch, scikit-learn, XGBoost, pandas, NumPy  
 **Frontend:** React, React Native, Tailwind CSS  
-**Backend:** FastAPI, Flask, PostgreSQL, Firebase  
-**Concepts:** ML Pipelines, Feature Engineering, REST APIs, Full-Stack Development
+**Backend:** FastAPI, Flask, PostgreSQL, Firebase, Supabase
 
 ---
 
 ## 📫 Contact
 - Open to **internships, research, and engineering roles**
-- Reach me via GitHub or LinkedIn
+- Reach me via LinkedIn or email
+linkedin.com/in/arnavsk
+- 
 
