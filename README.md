@@ -1,7 +1,6 @@
 # Hi, I'm Arnav
 
-I'm an Applied Mathematics and Computer Science student focused on **Machine Learning, AI, and Full-Stack Development**.  
-🏆 **HackNYU 1st Place Winner**, **RAMHacks 1st Place Winner** | President, ML & AI Club @ Farmingdale State College
+I'm an Applied Mathematics and Computer Science student focused on **Machine Learning, AI, and Full-Stack Development**, as well, I am the President of the Machine Learning and AI Club @ Farmingdale State College.
 
 I'm interested in Machine Learning, Computational Mathematics, Full-Stack Development, Research, and Data Science.
 
