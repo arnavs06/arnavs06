@@ -42,7 +42,7 @@ Experience across **machine learning, computer vision, mobile apps, and full-sta
 ## 🧑‍💼 Leadership
 **President — Machine Learning & AI Club**  
 Farmingdale State College  
-- Lead an 80+ member organization
+- Lead an 100+ member organization
 - Organize technical workshops and project-based learning
 - Increased engagement and technical proficiency by **30% YoY**
 
