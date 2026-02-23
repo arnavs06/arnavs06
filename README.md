@@ -79,6 +79,6 @@ Farmingdale State College
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20S%20K-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavsk)  
-[![Email](https://img.shields.io/badge/Email-arnav@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arnavsk1006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arnavsk1006@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arnavsk1006@gmail.com)
 
 Open to **internships, research, and engineering roles**.
